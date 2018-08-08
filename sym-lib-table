@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name bga)(type Legacy)(uri /Users/superapp070318/Documents/KiCAD/csbga36-breakout/lib/bga.lib)(options "")(descr ""))
+)
